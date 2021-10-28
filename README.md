@@ -1,1 +1,0 @@
-# Python-aula06b.py
